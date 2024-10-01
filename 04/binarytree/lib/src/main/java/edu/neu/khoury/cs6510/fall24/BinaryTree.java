@@ -1,7 +1,7 @@
 package edu.neu.khoury.cs6510.fall24;
 
 /**
- * Represents a BinaryTree (BT) where each node contains.
+ * Represents a BinaryTree (BT) where each node is either empty or contains.
  * 
  * <ol>
  * <li>an Integer value</li>
